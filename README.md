@@ -25,7 +25,7 @@ I'm also interested in server, cloud and devops!
 ## 📞 contact
 
 * email: wogur981208@gmail.com
-* blog: [](https://sajaehyukc.github.io/)
+* blog: https://sajaehyukc.github.io
 
 <a href=#><img src="contributions.svg"></a>
 
