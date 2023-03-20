@@ -25,7 +25,7 @@ I'm also interested in server, cloud and devops!
 ## 📞 contact
 
 * email: wogur981208@gmail.com
-* blog: [blog](https://bolder-starburst-a73.notion.site/Notion-e9f19a4253774770a7e70bea9c720f9d)
+* blog: [](https://sajaehyukc.github.io/)
 
 <a href=#><img src="contributions.svg"></a>
 
