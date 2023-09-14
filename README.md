@@ -22,6 +22,7 @@ I'm SaJaeHyuck, backend developer.
 
 ### 📌 Deploy
 ![](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/docker_compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white) 
 ![](https://img.shields.io/badge/AWS_CloudFront-8C4FFF?style=flat&logo=amazonrcloudfront&logoColor=white)
 ![](https://img.shields.io/badge/AWS_EB-FF9900?style=flat&logo=amazmoneb&logoColor=white)
