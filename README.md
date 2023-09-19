@@ -42,7 +42,6 @@ I'm SaJaeHyuck, backend developer.
 ![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) 
 ![](https://img.shields.io/badge/Slack-4A15AB?style=flat&logo=slack&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) 
-![](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white) 
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
 
 ### 📌Markup Language
