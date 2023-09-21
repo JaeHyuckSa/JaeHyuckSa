@@ -30,7 +30,6 @@ I'm SaJaeHyuck, backend developer.
 ![](https://img.shields.io/badge/AWS_LightSail-FF9900?style=flat&logo=amazmoneb&logoColor=white)
 ![](https://img.shields.io/badge/AWS_ELB-FF9900?style=flat&logo=amazmonelb&logoColor=white)    
 ![](https://img.shields.io/badge/AWS_RDS-8C4FFF?style=flat&logo=awsrds&logoColor=white) 
-![](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazoneks&logoColor=white) 
 ![](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Github_Actions-blue?style=flat&logo=githubactions&logoColor=white)
@@ -48,6 +47,16 @@ I'm SaJaeHyuck, backend developer.
 ![](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+### 📌Learning Tech
+![](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazoneks&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/Java-blue?style=flat&logo=java&logoColor=white) 
+
+
+
 
 ---
 
