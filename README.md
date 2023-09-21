@@ -48,7 +48,7 @@ I'm SaJaeHyuck, backend developer.
 ![](https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-### 📌Learning Tech
+### 📌Interesting Tech
 ![](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazoneks&logoColor=white)
 ![](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
