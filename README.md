@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm SaJaeHyuck, backend developer.
+I'm JaeHyuck Sa, backend developer.
 -  Technology choices are good, but good products come first
 ---
 
