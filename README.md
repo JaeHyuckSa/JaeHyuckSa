@@ -63,12 +63,6 @@ I'm JaeHyuck Sa, backend developer.
 
 ![Sa's GitHub stats](https://github-readme-stats.vercel.app/api?username=saJaeHyukc&show_icons=true&theme=gruvbox)
 
-
-## 📞 contact
-
-* email: wogur981208@gmail.com
-* blog: https://sajaehyukc.github.io
-
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
