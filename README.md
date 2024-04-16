@@ -60,9 +60,11 @@ I'm JaeHyuck Sa, backend developer.
 
 
 ---
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saJaeHyukc&show_icons=true&locale=en&layout=compact" alt="saJaeHyukc" />
 
-![Sa's GitHub stats](https://github-readme-stats.vercel.app/api?username=saJaeHyukc&show_icons=true&theme=gruvbox)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saJaeHyukc&show_icons=true&locale=en" alt="saJaeHyukc" />
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saJaeHyukc&" alt="saJaeHyukc" />
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
