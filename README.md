@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA4MjhfODYg/MDAxNTk4NTQxMzc4MTQ1.RE1Of8GQgPGrmJ2eegwEWEuV5Jq79YT8QX1-e4Rm64wg.POH5y3QaOWMrpE8exoFrYiXnbmK8Hbqgh6x6CmvtqdUg.GIF.wjdwndudtkfkdgo/1598541379694.gif?type=w800"/>
 
 I'm JaeHyuck Sa, backend developer.
 -  Technology choices are good, but good products come first
