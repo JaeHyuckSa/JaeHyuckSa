@@ -2,6 +2,7 @@
 I'm JaeHyuck Sa, backend developer.
 - Technology choices are good, but good products come first
 - I enjoy contributing to Django and related libraries!
+- If there's anything I can help with, please feel free to contact me anytime via email at wogur981208@gmail.com.
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saJaeHyukc&show_icons=true&locale=en&layout=compact" alt="saJaeHyukc" />
 
