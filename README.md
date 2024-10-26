@@ -8,3 +8,4 @@
 - [django-stubs](https://github.com/typeddjango/django-stubs/commits?author=JaeHyuckSa)
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs/commits?author=JaeHyuckSa)
 - [djangorestframework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt/commits?author=JaeHyuckSa)
+- [django-tasks](https://github.com/RealOrangeOne/django-tasks/commits?author=JaeHyuckSa)
