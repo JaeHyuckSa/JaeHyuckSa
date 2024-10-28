@@ -10,6 +10,6 @@
 - [djangorestframework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt/commits?author=JaeHyuckSa)
 - [django-tasks](https://github.com/RealOrangeOne/django-tasks/commits?author=JaeHyuckSa)
 
-**I’m putting together a team and leading efforts to support a first-time contribution.**
+**I’m putting together a team and leading efforts to support a first contribution.**
 - FastAPI (ko/docs)
     - https://github.com/fastapi/fastapi/pull/12540
