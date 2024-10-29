@@ -11,5 +11,4 @@
 - [django-tasks](https://github.com/RealOrangeOne/django-tasks/commits?author=JaeHyuckSa)
 
 **I’m putting together a team(Discord) and leading efforts to support a first contribution.**
-- FastAPI (ko/docs)
-    - https://github.com/fastapi/fastapi/pull/12540
+- [Fast API (ko/docs)](https://working-promotion-80d.notion.site/Contribute-List-12ea6a4196d3801f9909e09fb9d45e95?pvs=4)
