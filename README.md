@@ -9,6 +9,7 @@
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs/commits?author=JaeHyuckSa)
 - [djangorestframework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt/commits?author=JaeHyuckSa)
 - [django-tasks](https://github.com/RealOrangeOne/django-tasks/commits?author=JaeHyuckSa)
+- [django-mysql](https://github.com/adamchainz/django-mysql/commits?author=JaeHyuckSa)
 
 **I’m putting together a team(Discord) and leading efforts to support a first contribution.**
 - [FastAPI Contribute List(ko/docs)](https://working-promotion-80d.notion.site/Fast-API-ko-docs-12ea6a4196d38008bc3dc5d2c6d0723c?pvs=4)
