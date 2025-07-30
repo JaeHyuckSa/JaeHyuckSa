@@ -16,3 +16,4 @@
 
 ## Other Experience
 - [PyCon Korea](https://github.com/pythonkr) - Organizer
+- [DSF(Django Software Foundation)](https://github.com/django/dsf-minutes/blob/f913822ac483afc4e603855bf795d0cd9cd6c68a/2025/2025-07-10.md?plain=1#L37) - Individual Member
