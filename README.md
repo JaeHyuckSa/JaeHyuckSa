@@ -6,7 +6,7 @@
 ## Work Experience
 |Company Name|Position|Period|
 |---|---|---|
-|<a href="https://riiid.com/">Riiid</a>|BackEnd Engineer|24.07 ~ |
+|<a href="https://riiid.com/">Riiid/Qualson</a>|BackEnd Engineer|24.07 ~ |
 |<a href="https://www.tendom.co.kr/)/">Tendom</a>|BackEnd Engineer|23.04 ~ 23.08|
 
 ## Contribute List
