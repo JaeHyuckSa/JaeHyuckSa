@@ -4,7 +4,7 @@
 - I enjoy contributing to Django and related libraries!
 - If there's anything I can help with, please feel free to contact me anytime via email at **wogur981208@gmail.com**.
 
-## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: computing...)<!--TOTAL_EXP_INLINE_END--></small>
+## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 1 year 5 months)<!--TOTAL_EXP_INLINE_END--></small>
 |Company Name|Position|Period|
 |---|---|---|
 |<a href="https://riiid.com/">Riiid/Qualson</a>|BackEnd Engineer|24.07 ~ |
