@@ -65,6 +65,7 @@ def main():
     total_months = sum_experience_months(md)
     pretty = format_years_months_en(total_months)
 
+    # Block placeholder (optional section)
     new_block = f"<!--TOTAL_EXP_START-->\nTotal experience: {pretty}\n<!--TOTAL_EXP_END-->"
     md = re.sub(
         r"<!--TOTAL_EXP_START-->.*?<!--TOTAL_EXP_END-->",
@@ -72,6 +73,16 @@ def main():
         md,
         flags=re.DOTALL
     )
+
+    # Inline placeholder (header line)
+    new_inline = f"<!--TOTAL_EXP_INLINE_START-->(Total: {pretty})<!--TOTAL_EXP_INLINE_END-->"
+    md = re.sub(
+        r"<!--TOTAL_EXP_INLINE_START-->.*?<!--TOTAL_EXP_INLINE_END-->",
+        new_inline,
+        md,
+        flags=re.DOTALL
+    )
+
     README.write_text(md, encoding="utf-8")
 
 if __name__ == "__main__":
