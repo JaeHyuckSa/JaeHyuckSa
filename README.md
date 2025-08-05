@@ -17,6 +17,8 @@
 - [djangorestframework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt/commits?author=JaeHyuckSa)
 - [django-tasks](https://github.com/RealOrangeOne/django-tasks/commits?author=JaeHyuckSa)
 - [django-mysql](https://github.com/adamchainz/django-mysql/commits?author=JaeHyuckSa)
+- [django-cms](https://github.com/django-cms/django-cms/commits?author=JaeHyuckSa)
+
 
 **I’m organizing a Discord group and leading efforts to support first-time open source contributions.**
 - [FastAPI Contribute List (ko/docs)](https://working-promotion-80d.notion.site/Fast-API-ko-docs-12ea6a4196d38008bc3dc5d2c6d0723c?pvs=4)
