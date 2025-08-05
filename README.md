@@ -19,7 +19,7 @@
 - [django-mysql](https://github.com/adamchainz/django-mysql/commits?author=JaeHyuckSa)
 
 **I’m organizing a Discord group and leading efforts to support first-time open source contributions.**
-- FastAPI Contribute List (ko/docs): <https://working-promotion-80d.notion.site/Fast-API-ko-docs-12ea6a4196d38008bc3dc5d2c6d0723c?pvs=4>
+- [FastAPI Contribute List (ko/docs)](https://working-promotion-80d.notion.site/Fast-API-ko-docs-12ea6a4196d38008bc3dc5d2c6d0723c?pvs=4)
 
 ## Community & Membership
 - [PyCon Korea](https://github.com/pythonkr) — Organizer
