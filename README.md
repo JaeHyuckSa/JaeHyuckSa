@@ -24,5 +24,6 @@
 - [FastAPI Contribute List (ko/docs)](https://working-promotion-80d.notion.site/Fast-API-ko-docs-12ea6a4196d38008bc3dc5d2c6d0723c?pvs=4)
 
 ## Other Experience
+- [Django Korea](https://www.djangoproject.com/community/local/#django-south-korea-meetup) - Organizer (25.09 ~ )
 - [DSF (Django Software Foundation)](https://github.com/django/dsf-minutes/blob/f913822ac483afc4e603855bf795d0cd9cd6c68a/2025/2025-07-10.md?plain=1#L37) — Individual Member (25.07 ~ )
 - [PyCon Korea](https://github.com/pythonkr) — Organizer (25.03 ~ )
