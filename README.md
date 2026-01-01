@@ -9,7 +9,7 @@
 - 저는 사람들과 이야기하는 걸 좋아해서, 커피챗 원하시면 이메일(wogur981208@gmail.com)로 남겨주세요. 언제든 환영이에요! 서울에 있지만 온라인으로도 괜찮습니다.
 
 
-## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 1 year 9 months)<!--TOTAL_EXP_INLINE_END--></small>
+## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 1 year 10 months)<!--TOTAL_EXP_INLINE_END--></small>
 |Company Name|Position|Period|Description|
 |---|---|---|---|
 |<a href="https://riiid.com/">Riiid/Qualson</a>|BackEnd Engineer|24.07 ~ ||
