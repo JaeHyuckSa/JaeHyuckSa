@@ -12,7 +12,7 @@
 ## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 1 year 10 months)<!--TOTAL_EXP_INLINE_END--></small>
 |Company Name|Position|Period|Description|
 |---|---|---|---|
-|<a href="https://riiid.com/">Riiid/Qualson</a>|BackEnd Engineer|24.07 ~ ||
+|<a href="https://socra.ai/">SOCRA AI</a>|BackEnd Engineer|24.07 ~ ||
 |<a href="https://www.tendom.co.kr/">Tendom</a>|BackEnd Engineer|23.04 ~ 23.08||
 
 ## Contribution List
