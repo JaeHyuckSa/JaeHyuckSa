@@ -1,13 +1,11 @@
 ## Hi there 👋
 
 - Technology choices are good, but good products come first.
-- I enjoy contributing to Django and related libraries!
-- If there's anything I can help with, please feel free to contact me anytime via email at **wogur981208@gmail.com**.
+- I enjoy contributing to Django and related libraries, as well as Python libraries in general!
+- If there's anything I can help with, please feel free to contact me anytime via email at **jaehyuck.sa.dev@gmail.com**.
 
 ### etc.
-- I love chatting with people, so if you’d like to grab a coffee chat, just drop me an email(wogur981208@gmail.com). Always happy to connect! I’m based in Seoul, but online chats are totally fine too.
-- 저는 사람들과 이야기하는 걸 좋아해서, 커피챗 원하시면 이메일(wogur981208@gmail.com)로 남겨주세요. 언제든 환영이에요! 서울에 있지만 온라인으로도 괜찮습니다.
-
+- I love chatting with people, so if you’d like to grab a coffee chat, just drop me an email(jaehyuck.sa.dev@gmail.com). Always happy to connect! I’m based in Seoul, but online chats are totally fine too.
 
 ## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 1 year 10 months)<!--TOTAL_EXP_INLINE_END--></small>
 |Company Name|Position|Period|Description|
@@ -16,14 +14,7 @@
 |<a href="https://www.tendom.co.kr/">Tendom</a>|BackEnd Engineer|23.04 ~ 23.08||
 
 ## Contribution List
-- [django](https://github.com/django/django/commits?author=JaeHyuckSa)
-- [django-stubs](https://github.com/typeddjango/django-stubs/commits?author=JaeHyuckSa)
-- [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs/commits?author=JaeHyuckSa)
-- [djangorestframework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt/commits?author=JaeHyuckSa)
-- [django-tasks](https://github.com/RealOrangeOne/django-tasks/commits?author=JaeHyuckSa)
-- [django-mysql](https://github.com/adamchainz/django-mysql/commits?author=JaeHyuckSa)
-- [django-cms](https://github.com/django-cms/django-cms/commits?author=JaeHyuckSa)
-
+- https://github.com/JaeHyuckSa/JaeHyuckSa/blob/main/CONTRIVUTE_LIST.md
 
 **I’m organizing a Discord group and leading efforts to support first-time open source contributions.**
 - [FastAPI Contribute List (ko/docs)](https://working-promotion-80d.notion.site/Fast-API-ko-docs-12ea6a4196d38008bc3dc5d2c6d0723c?pvs=4)
