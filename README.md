@@ -7,7 +7,7 @@
 ### etc.
 - I love chatting with people, so if you’d like to grab a coffee chat, just drop me an email(jaehyuck.sa.dev@gmail.com). Always happy to connect! I’m based in Seoul, but online chats are totally fine too.
 
-## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 1 year 10 months)<!--TOTAL_EXP_INLINE_END--></small>
+## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 1 year 11 months)<!--TOTAL_EXP_INLINE_END--></small>
 |Company Name|Position|Period|Description|
 |---|---|---|---|
 |<a href="https://socra.ai/">SOCRA AI</a>|BackEnd Engineer|24.07 ~ ||
