@@ -11,7 +11,7 @@
 |Company Name|Position|Period|Description|
 |---|---|---|---|
 |<a href="https://socra.ai/">SOCRA AI</a>|BackEnd Engineer|24.07 ~ ||
-|<a href="https://www.tendom.co.kr/">Tendom</a>|BackEnd Engineer|23.04 ~ 23.08||
+|<a href="https://www.tendom.co.kr/">Tendom</a>|BackEnd Engineer|23.04 ~ 23.08|<a href="https://github.com/JaeHyuckSa/JaeHyuckSa/blob/main/WORK_EXPERIENCE.md#tendom--backend-engineer--2304--2308">Details</a>|
 
 ## Contribution List
 - https://github.com/JaeHyuckSa/JaeHyuckSa/blob/main/CONTRIBUTION_LIST.md
