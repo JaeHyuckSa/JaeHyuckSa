@@ -7,7 +7,7 @@ Backend development on an online education platform ([bear-u](https://bear-u.com
 **Ebook Domain/DB Modeling — Designed and Built End-to-End**
 - Implemented ebook management, sales/pricing management, favorites, view count aggregation
 - Built threaded review system (approval workflow, notification integration, cursor-based pagination)
-- Integrated external PDF viewer microservice (watermark DRM, reading progress tracking)
+- Implemented PDF viewer (watermark DRM, reading progress tracking)
 
 **Integrated ebook purchase transaction flow and coupon logic into the existing payment/coupon system**
 
