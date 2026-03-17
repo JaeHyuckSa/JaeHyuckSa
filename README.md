@@ -21,7 +21,7 @@
 ## Contribution List
 - Active contributor to Django (PRs, triage, reviews)
 - Contributions across Django ecosystem and Python libraries
-- https://github.com/JaeHyuckSa/JaeHyuckSa/blob/main/CONTRIBUTION_LIST.md
+- [Full List](https://github.com/JaeHyuckSa/JaeHyuckSa/blob/main/CONTRIBUTION_LIST.md)
 
 **I’m organizing a Discord group and leading efforts to support first-time open source contributions.**
 - [FastAPI Contribute List (ko/docs)](https://working-promotion-80d.notion.site/Fast-API-ko-docs-12ea6a4196d38008bc3dc5d2c6d0723c?pvs=4)
