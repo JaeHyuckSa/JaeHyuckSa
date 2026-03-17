@@ -15,7 +15,7 @@
 ## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 2 years)<!--TOTAL_EXP_INLINE_END--></small>
 |Company Name|Position|Period|Description|
 |---|---|---|---|
-|<a href="https://socra.ai/">SOCRA AI</a>|BackEnd Engineer|24.07 ~ ||
+|<a href="https://socra.ai/">SOCRA AI(RIIID)</a>|BackEnd Engineer|24.07 ~ ||
 |<a href="https://www.tendom.co.kr/">Tendom</a>|BackEnd Engineer|23.04 ~ 23.08|<a href="https://github.com/JaeHyuckSa/JaeHyuckSa/blob/main/WORK_EXPERIENCE.md#tendom--backend-engineer--2304--2308">Details</a>|
 
 ## Contribution List
