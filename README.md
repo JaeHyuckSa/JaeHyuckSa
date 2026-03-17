@@ -5,12 +5,12 @@
 - Technology choices are good, but good products come first.
 
 ### What I focus on
-- Improving developer experience in Django ecosystem
-- Maintaining code quality through reviews and triage
-- Helping contributors move forward effectively
+- Ensuring consistency and quality across contributions, improving developer experience, and supporting contributors to move forward effectively
+- Making pragmatic decisions that balance correctness and usability
+- Designing maintainable and scalable architectures
 
 ### etc.
-- I love chatting with people, so if you’d like to grab a coffee chat, just drop me an email(jaehyuck.sa.dev@gmail.com). Always happy to connect! I’m based in Seoul, but online chats are totally fine too.
+- Feel free to reach out via email: jaehyuck.sa.dev@gmail.com
 
 ## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 2 years)<!--TOTAL_EXP_INLINE_END--></small>
 |Company Name|Position|Period|Description|
