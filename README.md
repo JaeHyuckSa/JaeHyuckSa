@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Django Triage & Review team member
+- Django Triage & Review team member 🦄
 - Backend engineer and active Django contributor
 - Technology choices are good, but good products come first.
 
