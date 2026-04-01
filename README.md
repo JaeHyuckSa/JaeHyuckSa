@@ -12,7 +12,7 @@
 ### etc.
 - Feel free to reach out via email: jaehyuck.sa.dev@gmail.com
 
-## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 2 years)<!--TOTAL_EXP_INLINE_END--></small>
+## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 2 years 1 month)<!--TOTAL_EXP_INLINE_END--></small>
 |Company Name|Position|Period|Description|
 |---|---|---|---|
 |<a href="https://socra.ai/">SOCRA AI(RIIID)</a>|BackEnd Engineer|24.07 ~ ||
