@@ -28,7 +28,7 @@
 
 ## Community & Leadership
 Actively contributing to the Django&Python ecosystem and supporting its community growth.
-- [Django](https://www.djangoproject.com/foundation/teams/#:~:text=Jacob%20Walls-,JaeHyuck%20Sa,-Lily%20Foote) — Triage & Review Team Member (26.03 ~)
+- [Django](https://www.djangoproject.com/foundation/teams/#:~:text=Jacob%20Walls-,JaeHyuck%20Sa,-Lilian%20Tran) — Triage & Review Team Member (26.03 ~)
 - [Django Korea](https://www.djangoproject.com/community/local/#django-south-korea-meetup) — Organizer (25.09 ~ )
 - [DSF (Django Software Foundation)](https://github.com/django/dsf-minutes/blob/f913822ac483afc4e603855bf795d0cd9cd6c68a/2025/2025-07-10.md?plain=1#L37) — Individual Member (25.07 ~ )
 - [PyCon Korea](https://github.com/pythonkr) — Organizer (25.03 ~ )
