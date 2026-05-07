@@ -1,9 +1,5 @@
 # Contribution List
 
-## Contributions
-
-Links show authored issues and pull requests, plus pull requests reviewed by `JaeHyuckSa`.
-
 - [django](https://github.com/django/django/issues?q=sort%3Aupdated-desc+author%3AJaeHyuckSa+OR+reviewed-by%3AJaeHyuckSa)
 - [django-stubs](https://github.com/typeddjango/django-stubs/issues?q=sort%3Aupdated-desc+author%3AJaeHyuckSa+OR+reviewed-by%3AJaeHyuckSa)
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs/issues?q=sort%3Aupdated-desc+author%3AJaeHyuckSa+OR+reviewed-by%3AJaeHyuckSa)
