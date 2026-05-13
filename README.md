@@ -10,6 +10,7 @@
 - Designing maintainable and scalable architectures
 
 ### etc.
+- Open to discussing relevant Python/Django/Backend opportunities, collaborations, and consulting inquiries — remote/international welcome.
 - Feel free to reach out via email: jaehyuck.sa.dev@gmail.com
 
 ## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 2 years 2 months)<!--TOTAL_EXP_INLINE_END--></small>
