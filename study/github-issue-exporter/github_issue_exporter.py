@@ -12,8 +12,6 @@ from urllib.request import Request, urlopen
 
 
 API_BASE_URL = "https://api.github.com"
-DEFAULT_REPO = "https://github.com/jazzband/django-hosts"
-
 JsonObject = dict[str, Any]
 
 
