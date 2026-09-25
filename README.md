@@ -14,7 +14,7 @@
 - Open to discussing relevant Python/Django/Backend opportunities, collaborations, and consulting inquiries — remote/international welcome.
 - Feel free to reach out via email: jaehyuck.sa.dev@gmail.com
 
-## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 2 years 4 months)<!--TOTAL_EXP_INLINE_END--></small>
+## Work Experience <small><!--TOTAL_EXP_INLINE_START-->(Total: 2 years 7 months)<!--TOTAL_EXP_INLINE_END--></small>
 |Company Name|Position|Period|Description|
 |---|---|---|---|
 |<a href="https://socra.ai/">SOCRA AI</a>|BackEnd Engineer|24.07 ~ ||
