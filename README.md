@@ -20,6 +20,14 @@
 |<a href="https://socra.ai/">SOCRA AI</a>|BackEnd Engineer|24.07 ~ ||
 |<a href="https://www.tendom.co.kr/">Tendom</a>|BackEnd Engineer|23.04 ~ 23.08|<a href="https://github.com/JaeHyuckSa/JaeHyuckSa/blob/main/WORK_EXPERIENCE.md#tendom--backend-engineer--2304--2308">Details</a>|
 
+## Maintained Packages
+Maintainer of the following Django packages:
+
+|Name|Repo|Package|Python Version Support|Django Version Support|License|Downloads (last month)|
+|---|---|---|---|---|---|---|
+|[django-hosts](https://github.com/django-commons/django-hosts)|![](https://img.shields.io/github/stars/django-commons/django-hosts?style=for-the-badge&label=&logoColor=white&logo=GitHub)|![](https://img.shields.io/pypi/v/django-hosts?style=for-the-badge&label=&logoColor=white&logo=pypi)|![](https://img.shields.io/pypi/pyversions/django-hosts?style=for-the-badge&label=&logoColor=white&logo=Python)|![](https://img.shields.io/pypi/frameworkversions/django/django-hosts?style=for-the-badge&label=&logoColor=white&logo=Django)|![](https://img.shields.io/pypi/l/django-hosts?style=for-the-badge&label=)|![](https://img.shields.io/pypi/dm/django-hosts?style=for-the-badge&label=&logoColor=white&logo=pypi)|
+|[django-push-notifications](https://github.com/jazzband/django-push-notifications)|![](https://img.shields.io/github/stars/jazzband/django-push-notifications?style=for-the-badge&label=&logoColor=white&logo=GitHub)|![](https://img.shields.io/pypi/v/django-push-notifications?style=for-the-badge&label=&logoColor=white&logo=pypi)|![](https://img.shields.io/pypi/pyversions/django-push-notifications?style=for-the-badge&label=&logoColor=white&logo=Python)|![](https://img.shields.io/pypi/frameworkversions/django/django-push-notifications?style=for-the-badge&label=&logoColor=white&logo=Django)|![](https://img.shields.io/pypi/l/django-push-notifications?style=for-the-badge&label=)|![](https://img.shields.io/pypi/dm/django-push-notifications?style=for-the-badge&label=&logoColor=white&logo=pypi)|
+
 ## Contribution List
 - Active contributor to Django (PRs, triage, reviews)
 - Contributions across Django ecosystem and Python libraries
