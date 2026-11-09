@@ -27,4 +27,3 @@
 - [drf-spectacular](https://github.com/tfranzel/drf-spectacular/issues?q=sort%3Aupdated-desc+author%3AJaeHyuckSa+OR+reviewed-by%3AJaeHyuckSa)
 - [airflow](https://github.com/apache/airflow/issues?q=sort%3Aupdated-desc+author%3AJaeHyuckSa+OR+reviewed-by%3AJaeHyuckSa)
 - [pytest](https://github.com/pytest-dev/pytest/issues?q=sort%3Aupdated-desc+author%3AJaeHyuckSa+OR+reviewed-by%3AJaeHyuckSa)
-- [django-docker-box](https://github.com/django/django-docker-box/issues?q=sort%3Aupdated-desc+author%3AJaeHyuckSa+OR+reviewed-by%3AJaeHyuckSa)
